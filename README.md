@@ -1,7 +1,7 @@
 ## <img src="docs/assets/elysium.png" alt="Elysium Logo" width="27" style="border-radius: 6px; vertical-align: -4px;" /> Elysium - 极乐净土
 
 ```text
-项目完全为技术学习交流使用，🈲禁止在任何国内平台宣传发布相关内容
+项目完全为技术学习交流使用，🚫❕❕❕禁止在任何国内平台宣传发布相关内容
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -95,9 +95,9 @@
 
 ---
 
-## Docker 部署
+## 🛳️ Docker 部署
 
-### 部署文件
+### 📜 部署文件
 
 建议在部署机准备如下文件：
 
