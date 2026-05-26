@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs and runtime
+*.log
+logs/
+tmp/
+temp/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+target/
+dist/
+build/
+node_modules/
