@@ -1,4 +1,4 @@
-## <img src="docs/assets/elysium.png" alt="Elysium Logo" width="27" style="border-radius: 6px; vertical-align: -4px;" /> Elysium - 极乐净土
+## <img src="docs/assets/elysium.png" alt="Elysium Logo" width="27" style="border-radius: 6px;" /> Elysium - 极乐净土
 
 ```text
 项目完全为技术学习交流使用，🚫❕❕❕禁止在任何国内平台宣传发布相关内容
@@ -177,7 +177,12 @@ FORCE_INIT_DB=false
 docker compose up -d
 ```
 
-启动后访问 `http://部署机器地址:${WEB_PUBLISH_PORT}`。
+启动后访问 `http://部署机器地址:${WEB_PUBLISH_PORT}`  
+默认用户名：`admin `  
+默认密码：`admin123`  
+测试环境地址：<a href="https://el-test.hanxl.fun"><strong>Elysium-Test</strong></a>
+
+---
 
 
 #### ⚠️ ❕❕❕安全建议
